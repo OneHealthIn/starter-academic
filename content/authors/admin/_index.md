@@ -1,9 +1,7 @@
 ---
 role: One Health Platform, India
 avatar_filename: ""
-bio: Aims to raise awareness, connectivity, research, & opportunities on One
-  Health. Currently prioritizing COVID-19 awareness in addition to other One
-  Health topics
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -23,3 +21,4 @@ highlight_name: false
 title: One Health India
 email: ""
 ---
+Aims to raise awareness, connectivity, research, & opportunities on One Health. Currently prioritizing COVID-19 awareness in addition to other One Health topics
