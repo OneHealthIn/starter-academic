@@ -1,6 +1,6 @@
 ---
 role: One Health Platform, India
-avatar_filename: final-one-health-logo.png
+avatar_filename: forest.jpg
 bio: Aims to raise awareness, connectivity, research, & opportunities on One
   Health. Currently prioritizing COVID-19 awareness in addition to other One
   Health topics
