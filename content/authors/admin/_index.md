@@ -1,7 +1,7 @@
 ---
 role: One Health Platform, India
 avatar_filename: ""
-#bio: ""
+bio: ""
 interests: []
 social:
   - icon: envelope
