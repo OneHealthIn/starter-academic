@@ -11,8 +11,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/One_Health_In
 organizations: []
-education:
-  courses: []
+#education:
+  #courses: []
 superuser: true
 user_groups:
   - Researchers
