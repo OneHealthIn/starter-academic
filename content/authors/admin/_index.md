@@ -1,6 +1,6 @@
 ---
 role: One Health Platform, India
-avatar_filename: ""
+avatar_filename: final-one-health-logo.webp
 bio: ""
 interests: []
 social:
