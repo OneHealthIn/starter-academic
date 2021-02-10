@@ -19,7 +19,7 @@ highlight_name: false
 title: One Health India
 email: ""
 ---
-# **Fighting misinformation on COVID-19 with truth, science, and knowledge!**
+# **Fighting COVID-19 Misinformation with Truth, Science, and Knowledge!**
 
 ### Internship Applications Open
 
@@ -44,4 +44,4 @@ To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.healt
 
 ## **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India.**
 
-### **Bringing together epidemiologists, doctors, veterinarians, public health professionals, researchers, students, and other health professionals!**
+### **Bringing together doctors, veterinarians, epidemiologists, public health professionals, researchers, students, and other health professionals!**
