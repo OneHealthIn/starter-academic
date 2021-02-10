@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India.**
+## **Raise awareness, improve connectivity, encourage research, & create opportunities on One Health in India.**
