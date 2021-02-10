@@ -10,8 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Dr. Dharmaveer Shetty
-          Ms. Preetha Joseph (Internship Coordinator)
+subtitle: Dr. Dharmaveer Shetty  Ms. Preetha Joseph
 
 content:
   # Automatically link email and phone or display as text?
