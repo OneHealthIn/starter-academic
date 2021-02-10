@@ -17,7 +17,7 @@ user_groups:
   - Visitors
 highlight_name: false
 title: One Health India
-email: ""
+email: india.one.health@gmail.com
 ---
 # **Fighting COVID-19 Misinformation with Truth, Science, and Knowledge!**
 
