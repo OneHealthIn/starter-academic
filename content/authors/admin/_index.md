@@ -21,7 +21,7 @@ email: ""
 ---
 # **Fighting misinformation on COVID-19 with truth, science, and knowledge!**
 
-### Apply for the fourth internship batch
+### Internships: Applications open
 
 Applications close on 24th February 2021
 
