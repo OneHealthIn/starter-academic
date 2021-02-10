@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Dr. Dharmaveer Shetty (Dharma) or Ms. Preetha Joseph
+subtitle: Dr. Dharmaveer Shetty (Dharma),  Ms. Preetha Joseph
 
 
 content:
