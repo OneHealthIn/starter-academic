@@ -21,8 +21,6 @@ email: ""
 ---
 # **Fighting misinformation on COVID-19 with truth, science, and knowledge!**
 
-
-
 ### Internship Applications Open
 
 Applications close on 24th February 2021
@@ -46,4 +44,4 @@ To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.healt
 
 ## **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India.**
 
-## **Bringing together epidemiologists, doctors, veterinarians, public health professionals, researchers, students, and other health professionals!**
+### **Bringing together epidemiologists, doctors, veterinarians, public health professionals, researchers, students, and other health professionals!**
