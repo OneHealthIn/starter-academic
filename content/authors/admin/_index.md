@@ -19,4 +19,25 @@ highlight_name: false
 title: One Health India
 email: ""
 ---
-Aims to raise awareness, connectivity, research, & opportunities on One Health. Currently prioritizing COVID-19 awareness in addition to other One Health topics
+**Fighting misinformation on COVID-19 with truth, science, and knowledge! Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India, by trying to bring together with epidemiologists, doctors, veterinarians, public health professionals, researchers, and students.**
+
+Apply for the fourth internship batch in the One Health, India team
+
+Applications close on 24th February 2021
+
+We are seeking social media interns who are passionate about learning and contributing towards new-age scientific communication on social media. The applicants should be responsible, detail-oriented, and self-motivated. In addition, internships are also available for video and media production (for social media such as Twitter and YouTube), website development, as well as partnership development, and networking.
+
+Skills Required: 
+
+* Fluent in the English language
+* Demonstrated interest and/or experience in One Health, Planetary Health, Public Health, Wildlife Health, Veterinary Health, Ecological Health, Mental Health, or other associated fields.
+
+Skills Desired: 
+
+* Scientific communication 
+* Social media experience (Twitter, YouTube, etc) 
+* Ability to read and interpret scientific literature
+
+The internship is remote, part-time, voluntary, and for a 6-month duration. Learning, mentorship, advancement, and leadership opportunities are available for the right person in due course. This is an equal opportunity platform, and applications are encouraged from socially disadvantaged and underrepresented sections of society.
+
+To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.health@gmail.com)  by the 24th February 2021.
