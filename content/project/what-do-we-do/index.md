@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## **Fight COVID-19 Misinformation with Truth, Science, and Knowledge!**
+## **Fight the COVID-19 infodemic (misinformation) with Truth, Science, and Knowledge!**
