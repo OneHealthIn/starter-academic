@@ -23,7 +23,7 @@ email: ""
 
 ### Internship Applications Open
 
-Applications close on 24th February 2021
+Last Date to Apply: 24th February 2021
 
 We are seeking social media interns who are passionate about learning and contributing towards new-age scientific communication on social media. The applicants should be responsible, detail-oriented, and self-motivated. In addition, internships are also available for video and media production (for social media such as Twitter and YouTube), website development, as well as partnership development, and networking.
 
