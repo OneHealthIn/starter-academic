@@ -21,7 +21,7 @@ email: ""
 ---
 # **Fighting misinformation on COVID-19 with truth, science, and knowledge!**
 
-![](Avatar.png)
+
 
 ### Internship Applications Open
 
