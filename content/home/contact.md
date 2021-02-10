@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Dr. Dharmaveer Shetty (Founding Coordinator) or Ms. Preetha Joseph (Internship Coordinator)
 
 content:
   # Automatically link email and phone or display as text?
