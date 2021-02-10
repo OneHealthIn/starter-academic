@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## **Doctors, veterinarians, epidemiologists, health professionals, and** **students together!**
+## **Doctors, veterinarians, epidemiologists, health professionals, researchers, and** **students together!**
