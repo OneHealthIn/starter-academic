@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## **Bring together doctors, veterinarians, epidemiologists, public health experts, researchers, students, and other health professionals!**
+## **doctors, veterinarians, epidemiologists, and other health professionals!**
