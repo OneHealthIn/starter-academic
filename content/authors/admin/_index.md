@@ -40,8 +40,4 @@ Skills Desired: 
 
 The internship is remote, part-time, voluntary, and for a 6-month duration. Learning, mentorship, advancement, and leadership opportunities are available for the right person in due course. This is an equal opportunity platform, and applications are encouraged from socially disadvantaged and underrepresented sections of society.
 
-To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.health@gmail.com)  by the 24th February 2021.
-
-## **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India.**
-
-## **Bringing together doctors, veterinarians, epidemiologists, public health experts, researchers, students, and other health professionals!**
+To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.health@gmail.com)  by the 24th of February 2021.
