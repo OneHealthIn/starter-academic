@@ -42,4 +42,4 @@ The internship is remote, part-time, voluntary, and for a 6-month duration. Lear
 
 To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.health@gmail.com)  by the 24th February 2021.
 
-## **About us: Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India, by trying to bring together with epidemiologists, doctors, veterinarians, public health professionals, researchers, and students.**
+### **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India, by trying to bring together with epidemiologists, doctors, veterinarians, public health professionals, researchers, and students.**
