@@ -19,9 +19,11 @@ highlight_name: false
 title: One Health India
 email: ""
 ---
-**Fighting misinformation on COVID-19 with truth, science, and knowledge! Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India, by trying to bring together with epidemiologists, doctors, veterinarians, public health professionals, researchers, and students.**
+# **Fighting misinformation on COVID-19 with truth, science, and knowledge!** 
 
-Apply for the fourth internship batch in the One Health, India team
+## **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India, by trying to bring together with epidemiologists, doctors, veterinarians, public health professionals, researchers, and students.**
+
+### Apply for the fourth internship batch in the One Health, India team
 
 Applications close on 24th February 2021
 
