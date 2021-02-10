@@ -10,8 +10,8 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: Dr. Dharmaveer Shetty 
-subtitle2: Ms. Preetha Joseph
+subtitle: Dr. Dharmaveer Shetty (Dharma) or Ms. Preetha Joseph
+
 
 content:
   # Automatically link email and phone or display as text?
