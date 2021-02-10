@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## **doctors, veterinarians, epidemiologists, and other health professionals!**
+## **Doctors, veterinarians, epidemiologists, and other health professionals!**
