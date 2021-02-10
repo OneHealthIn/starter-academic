@@ -29,7 +29,7 @@ We are seeking social media interns who are passionate about learning and contri
 
 Skills Required: 
 
-* Fluent in the English language
+* Fluency in the English language
 * Demonstrated interest and/or experience in One Health, Planetary Health, Public Health, Wildlife Health, Veterinary Health, Ecological Health, Mental Health, or other associated fields.
 
 Skills Desired: 
