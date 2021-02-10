@@ -1,6 +1,6 @@
 ---
 role: One Health Platform, India
-avatar_filename: ""
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
@@ -11,8 +11,6 @@ social:
     icon_pack: fab
     link: https://twitter.com/One_Health_In
 organizations: []
-#education:
-  #courses: []
 superuser: true
 user_groups:
   - Researchers
