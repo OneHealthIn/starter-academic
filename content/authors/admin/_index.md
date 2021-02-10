@@ -44,4 +44,4 @@ To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.healt
 
 ## **Raising awareness, improving connectivity, encouraging research, & creating opportunities on One Health in India.**
 
-## **Bringing together doctors, veterinarians, epidemiologists, public health professionals, researchers, students, and other health professionals!**
+## **Bringing together doctors, veterinarians, epidemiologists, public health experts, researchers, students, and other health professionals!**
