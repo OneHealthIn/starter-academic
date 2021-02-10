@@ -21,7 +21,7 @@ email: ""
 ---
 # **Fighting misinformation on COVID-19 with truth, science, and knowledge!**
 
-### Apply for the fourth internship batch in the One Health, India team
+### Apply for the fourth internship batch
 
 Applications close on 24th February 2021
 
