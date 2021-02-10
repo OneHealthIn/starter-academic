@@ -1,6 +1,6 @@
 ---
 role: One Health Platform, India
-avatar_filename: forest.jpg
+avatar_filename: ""
 bio: ""
 interests: []
 social:
