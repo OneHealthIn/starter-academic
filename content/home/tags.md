@@ -1,12 +1,12 @@
 +++
 # Tag Cloud widget.
 widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Apply for the internship"
-subtitle = "by emailing india.one.health@gmail.com with your CV"
+title = "Tags"
+subtitle = ""
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
