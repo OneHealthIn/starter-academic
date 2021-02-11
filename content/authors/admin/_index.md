@@ -38,6 +38,6 @@ Skills Desired: 
 * Social media experience (Twitter, YouTube, etc) 
 * Ability to read and interpret scientific literature
 
-The internship is remote, part-time, voluntary, and for a 6-month duration. Learning, mentorship, advancement, and leadership opportunities are available for the right person in due course. This is an equal opportunity platform, and applications are encouraged from socially disadvantaged and underrepresented sections of society.
+The internship is remote, part-time, voluntary, and for a 6-month duration (April to September 2021). Learning, mentorship, advancement, and leadership opportunities are available for the right person in due course. This is an equal opportunity platform, and applications are encouraged from socially disadvantaged and underrepresented sections of society.
 
 To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.health@gmail.com)  by the 24th of February 2021.
