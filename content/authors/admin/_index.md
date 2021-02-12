@@ -38,6 +38,6 @@ Skills Desired: 
 * Social media experience (Twitter, YouTube, etc) 
 * Ability to read and interpret scientific literature
 
-The internship is global (open to everyone, irrespective of nationality or location), remote, part-time, voluntary, and for a 6-month duration (April to September 2021). Learning, mentorship, advancement, and leadership opportunities are available for the right person in due course. This is an equal opportunity platform, and there will be no discrimination because of age, sex, caste, race, religion, national origin, disability, sexual orientation, amongst other factors. Applications are encouraged from socially disadvantaged and underrepresented sections of society.
+The internship is global (open to everyone, irrespective of nationality or location), remote, part-time, voluntary, and for a 6-month duration (April to September 2021). This is an equal opportunity platform, and there will be no discrimination based on age, sex, caste, race, religion, national origin, location of residence, disability, and sexual orientation, amongst other factors. Applications are encouraged from socially disadvantaged and underrepresented sections of society. Learning, mentorship, advancement, and leadership opportunities are available for exceptional interns in due course. 
 
 To apply, email your C.V. to [india.one.health@gmail.com](mailto:india.one.health@gmail.com)  by the 24th of February 2021.
