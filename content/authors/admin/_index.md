@@ -23,4 +23,4 @@ email: india.one.health@gmail.com
 
 
 
-We are a voluntary organization motivated by the values of truth, innovation, and making a difference. Do email us if you would like to join forces!
+We are a voluntary organization motivated by the values of truth, innovation, and making a difference. Email us to say hi, get to know more, and join forces!
