@@ -21,6 +21,4 @@ email: india.one.health@gmail.com
 ---
 # **Fighting COVID-19 Misinformation with Truth, Science, and Knowledge!**
 
-
-
-We are a voluntary organization motivated by the values of truth, innovation, and making a difference. Email us to say hi, get to know more, and join forces!
+We are a voluntary platform motivated by the values of truth, innovation, and making a difference. Email us to say hi, get to know more, and join forces!
