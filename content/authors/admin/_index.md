@@ -22,7 +22,7 @@ email: india.one.health@gmail.com
 # **Internship Opportunity**
 # **Global Applications Open**
   
-Applications are open for 'Scientific Communication Through Social Media (COVID Superheroes)' and 'Community Building (Leadership Team)' internships. 
+Applications are open for 'scientific communication through social media (COVID Superheroes)' and 'community building (leadership team)' internships. 
 
 (A) COVID Superheroes: Applicants for the COVID Superheroes internship are required to be fluent in the English language and have an interest in scientific or health communication. The selected candidates will get an opportunity to go through a multi-step training program which will provide them with the skill sets required to convert scientific publications into short-form social media messages. Upon successful completion, the interns will be certified as COVID Superheroes and get promoted as community partners. More details on COVID Superheroes is available at: https://www.covidsuperheroes.org
 
