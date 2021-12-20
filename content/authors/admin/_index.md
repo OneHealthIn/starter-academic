@@ -21,16 +21,12 @@ email: india.one.health@gmail.com
 ---
 # **Internship Opportunity**
 # **Global Applications Open**
-  
-Applications are open for 'scientific communication through social media (COVID Superheroes)' and 'community building (leadership and networking)' internships. 
+Virtual, volunteer, part-time (4-10 hours per week), 3-month, scientific communication internship opportunity
 
-To apply, please send us an email with your CV to india.one.health@gmail.com
+Application Deadline: January 10th, 2022
 
-(A) COVID Superheroes: Applicants for the COVID Superheroes internship are required to be fluent in the English language and have an interest in scientific or health communication. The selected candidates will get an opportunity to go through a multi-step training program which will provide them with the skill sets required to convert scientific publications into short-form social media messages. Upon successful completion, the interns will be certified as COVID Superheroes and get promoted as community partners. More details on COVID Superheroes is available at: https://www.covidsuperheroes.org
+One Health COVID Superheroes use the power of science, community action, and social media to tackle the ongoing COVID-19 misinformation infodemic. Applicants must be fluent in English and interested in scientific communication. Successful applicants will get the opportunity to go through an online training program where they will gain new skills in evaluating, translating, and communicating scientific publications over social media. 
 
-(B) Community Building (Leadership and Networking): Applicants for the community building internship will join the leadership team in scaling up the One Health platform and taking forward ideas across interdisciplinary landscapes. Applicants are required to have an interest in leadership, networking, and organizational strategization. The selected candidates will work closely with the leadership to continue building an efficient One Health community. 
-
-Both the internships are remote, part-time (4-10 hours a week), voluntary, and for a 6-month duration. Learning, mentorship, advancement, and leadership opportunities are available for the right person in due course. This is an equal opportunity platform, and applications are encouraged from socially disadvantaged and underrepresented sections of society. 
-
-To apply, please send us an email with your CV to india.one.health@gmail.com
+More details are available at COVID Superheroes: https://www.covidsuperheroes.org  
+To apply, send an email with your CV to c19superheroes@gmail.com
 
