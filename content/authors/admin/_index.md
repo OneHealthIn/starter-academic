@@ -19,11 +19,7 @@ highlight_name: false
 title: One Health India
 email: india.one.health@gmail.com
 ---
-# **Internship Opportunity**
-# **Global Applications Open**
-Virtual, volunteer, part-time (4-10 hours per week), 3-month, scientific communication internship opportunity
-
-Application Deadline: January 10th, 2022
+# **WHAT IS ONE HEALTH?
 
 "One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals and ecosystems. It recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent.The approach mobilizes multiple sectors, disciplines and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for clean water, energy and air, safe and nutritious food, taking action on climate change, and contributing to sustainable development." - One Health High Level Expert Panel (Joint FAO/OIE/UNEP/WHO Initiative)
 
