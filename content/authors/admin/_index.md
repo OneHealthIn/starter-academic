@@ -25,8 +25,6 @@ Virtual, volunteer, part-time (4-10 hours per week), 3-month, scientific communi
 
 Application Deadline: January 10th, 2022
 
-One Health COVID Superheroes use the power of science, community action, and social media to tackle the ongoing COVID-19 misinformation infodemic. Applicants must be fluent in English and interested in scientific communication. Successful applicants will get the opportunity to go through an online training program where they will gain new skills in evaluating, translating, and communicating scientific publications over social media. 
+"One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals and ecosystems. It recognizes the health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent.The approach mobilizes multiple sectors, disciplines and communities at varying levels of society to work together to foster well-being and tackle threats to health and ecosystems, while addressing the collective need for clean water, energy and air, safe and nutritious food, taking action on climate change, and contributing to sustainable development." - One Health High Level Expert Panel (Joint FAO/OIE/UNEP/WHO Initiative)
 
-More details are available at COVID Superheroes: https://www.covidsuperheroes.org  
-To apply, send an email with your CV to c19superheroes@gmail.com
 
